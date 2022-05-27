@@ -1,10 +1,10 @@
-# mradml
+# mramdl
 
 ```python
 #import module
-import mradml
+import mramdl
 
-mradml.main()
+mramdl.main()
 ```
 
 ```
