@@ -7,7 +7,7 @@ import mradml
 mradml.main()
 ```
 
-```python
+```
 output:
 
 1_LinearRegression
