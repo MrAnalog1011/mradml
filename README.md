@@ -19,3 +19,5 @@ output:
 7_SVM regressor
 8_Classification
 ```
+
+select practical
